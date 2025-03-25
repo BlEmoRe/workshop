@@ -1,4 +1,4 @@
-title = "EmoRec EEG"
+title = "BlEmoRe"
 baseURL = ""
 languageCode = "en-us"
 theme = ["ananke"]
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "EmoRec EEG"
+    title = "BlEmoRe"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -39,4 +39,4 @@ url = "https://twitter.com/acii_conf?lang=en"
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/EmotionLab/EEGain"
+url = "https://github.com/TS1349/test_site"
