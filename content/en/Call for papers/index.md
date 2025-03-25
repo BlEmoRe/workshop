@@ -29,4 +29,5 @@ In addition, we encourage submissions in both tracks to provide information abou
 ### Submission
 Papers can be submitted via ACII’s [submission portal](https://easychair.org/account2/signin?l=9161489160958518132) In the portal, you will have the option to specifically submit to the workshop.
 Submissions in both tracks should following the general ACII guidelines (max. 7 pages main text + 1 page optional ethics statement + unlimited references).
-Please note that all submitted papers should be anonymized for the review process.
+
+**Please note that all submitted papers should be anonymized for the review process.**
