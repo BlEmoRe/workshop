@@ -22,9 +22,10 @@ The challenge track introduces a novel dataset of multimodal emotion expressions
 In addition, we encourage submissions in both tracks to provide information about how various blended emotions are expressed, e.g. by providing lists of predictor importance, to increase the explainability of their systems.
 
 ### Important Dates
-    - Paper submission deadline for workshops: 30 June 2025
-    - Workshop papers decision notification: 28 July 2025
-    - Workshop camera-ready deadline: 20 August 2025
+
+- Paper submission deadline for workshops: 30 June 2025
+- Workshop papers decision notification: 28 July 2025
+- Workshop camera-ready deadline: 20 August 2025
  
 ### Submission
 Papers can be submitted via ACII’s [submission portal](https://easychair.org/account2/signin?l=9161489160958518132) In the portal, you will have the option to specifically submit to the workshop.
