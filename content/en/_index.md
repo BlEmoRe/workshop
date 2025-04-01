@@ -16,9 +16,14 @@ The BLEMORE workshop and competition on multimodal blended emotion recognition w
 BLEMORE aims to inspire further development on the still under-represented topic of blended emotion recognition. By combining a competition with a workshop format, our hope is that BLEMORE will lead to concrete and measurable technical advances, while also providing a forum for reflection and exchange between researchers working in the field.
 The workshop will take place on the 11th of October 2025.
 
+
 ## Mailing list
 To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de/mailman/cgi-bin/listinfo/blemore-workshop.\
 Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
+
+
+## Training dataset released
+The training dataset for the BLEMORE challenge is now available on [zenodo](https://zenodo.org/records/15096942). Please feel free to contact us in case of any question concerning the dataset.
 
 #### Acknowledgements
 The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union (GA no.101078950).
