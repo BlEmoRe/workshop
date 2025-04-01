@@ -2,7 +2,7 @@
 title: "Program Committee"
 weight: 4
 omit_header_text: true
-featured_image: '/images/Dalle2.webp'
+featured_image: '/images/banner.png'
 menu:
   main:
     weight: 4

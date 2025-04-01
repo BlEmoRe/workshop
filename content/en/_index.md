@@ -6,7 +6,7 @@ description: "The Workshop and Competition on Multimodal Blended Emotion Recogni
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: 'images/Dalle1.webp'
+  featured_image: 'images/banner_large.png'
 menu:
   main:
     weight: 1
@@ -17,8 +17,8 @@ BLEMORE aims to inspire further development on the still under-represented topic
 The workshop will take place on the 11th of October 2025.
 
 ## Mailing list
-To stay up-to-date, please sign up to our mailing list by sending a request to XXXXX@XXXXX.XXX.
-We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
+To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de/mailman/cgi-bin/listinfo/blemore-workshop.\
+Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
 
 #### Acknowledgements
 The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union (GA no.101078950).

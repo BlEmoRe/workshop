@@ -2,7 +2,7 @@
 title: "Program"
 weight: 5
 omit_header_text: true
-featured_image: '/images/Dalle3.webp'
+featured_image: '/images/banner.png'
 type: page
 menu: main
 

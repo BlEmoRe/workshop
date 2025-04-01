@@ -2,7 +2,7 @@
 title: "Call for Papers"
 weight: 5
 omit_header_text: true
-featured_image: '/images/Dalle3.webp'
+featured_image: '/images/banner.png'
 type: page
 menu: main
 
@@ -17,6 +17,7 @@ The challenge track introduces a novel dataset of multimodal emotion expressions
 **1.Challenge Track:** In this track, we invite submissions which utilize the challenge dataset and pre-defined evaluation metrics. For this challenge, we employ two main evaluation metrics:
     -  *ACCpresence* measures whether the correct label(s) are predicted without errors. A correct prediction must include all present emotions while avoiding false negatives (e.g., predicting only one emotion in a blend) and false positives (e.g., predicting emotions that are not part of the label).
     -  *ACCsalience* extends *ACCpresence* by considering the relative prominence of each emotion. It evaluates whether the predicted proportions reflect the correct ranking—whether the emotions are equally present or one is more dominant than the other. This metric applies only to blended emotions.
+    - Further details on the challenge can be found [here](https://blemore.github.io/workshop/challenge/).
 
 **2.Reflection Track:** Here, we invite submissions concerned with the general problem of blended emotion recognition. In contrast to the challenge track, the focus of papers is not to improve performance on the evaluation dataset, but to generate new insights into the problem. Evaluation on the challenge dataset is not required but will still be valued.
 In addition, we encourage submissions in both tracks to provide information about how various blended emotions are expressed, e.g. by providing lists of predictor importance, to increase the explainability of their systems.
