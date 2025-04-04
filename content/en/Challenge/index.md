@@ -11,7 +11,7 @@ menu: main
 
 ## Dataset 
 
-The training partition of the dataset is available on [Zenodo](https://zenodo.org/records/15096942). 
+The training partition of the dataset is available on [Zenodo](https://zenodo.org/records/15096942)
 
 The test partition, without labels, will be made available at least 2 weeks before the challenge deadline (June 30, 2025).
 Participants will be able to submit their predictions for the test set, and the results will be evaluated on out server. 
