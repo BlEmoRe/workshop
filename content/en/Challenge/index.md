@@ -9,8 +9,6 @@ menu: main
 
 ---
 
-# Challenge Description
-
 ## Dataset 
 
 The training partition of the dataset is available on [Zenodo](https://zenodo.org/records/15096942). 
