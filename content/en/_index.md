@@ -23,7 +23,8 @@ Please be aware that you need to confirm your list membership via email. We will
 
 
 ## Training dataset released
-The training dataset for the BLEMORE challenge is now available on [zenodo](https://zenodo.org/records/15096942). Please feel free to contact us in case of any question concerning the dataset.
+The training dataset for the BLEMORE challenge is now available on [zenodo](https://zenodo.org/records/15096942). 
+Please feel free to contact us in case of any question concerning the dataset: petri.laukka@psyk.uu.se
 
 #### Acknowledgements
 The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union (GA no.101078950).
