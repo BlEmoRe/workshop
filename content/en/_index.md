@@ -22,9 +22,7 @@ To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de
 Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
 
 ## Basic Code for Baselines released (2025-04-08)
-Available on [github](https://github.com/BlEmoRe/blemore-common).
-
-Readme is being updated, but the code is already available.
+Available on [Github](https://github.com/BlEmoRe/blemore-common). Readme is being updated, but the code is already available.
 
 ## Call for Papers released (2025-04-08)
 The call for papers for the BLEMORE workshop and competition is now available: [Call for Papers](https://blemore.github.io/workshop/call-for-papers/)
