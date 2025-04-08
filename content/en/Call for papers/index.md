@@ -31,7 +31,9 @@ We employ two evaluation metrics: _ACCpresence_ measures whether the correct lab
 A correct prediction must include all present emotions while avoiding false negatives 
 (e.g., predicting only one emotion in a blend of two emotions) and false positives 
 (e.g., predicting emotions that are not part of the label). _ACCsalience_ extends _ACCpresence_ by considering the relative prominence of each emotion. 
-It evaluates whether the predicted proportions reflect the correct ranking. This metric applies only to blended emotions. Further details on the challenge can be found [here](https://blemore.github.io/workshop/challenge/).
+It evaluates whether the predicted proportions reflect the correct ranking. This metric applies only to blended emotions. 
+Further details on the challenge can be found [here](https://blemore.github.io/workshop/challenge/)
+
 
 ### Important Dates
 
