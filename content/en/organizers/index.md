@@ -1,7 +1,7 @@
 ---
 title: Organizers
 weight: 6
-featured_image: '/images/banner.png'
+featured_image: '/images/banner_large.png'
 omit_header_text: true
 description: We'd love to hear from you
 type: page
