@@ -33,10 +33,10 @@ enableRobotsTXT = true
   recent_posts_number = 3
   custom_css = ["custom.css"]
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/acii_conf?lang=en"
+#[[params.ananke_socials]]
+#name = "twitter"
+#url = "https://twitter.com/acii_conf?lang=en"
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/TS1349/test_site"
+url = "https://github.com/BlEmoRe/blemore-common/tree/main"

@@ -15,5 +15,6 @@ menu: main
 <br>  
 </br>  
 
-#### Acknowledgements
->> The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union (GA no.101078950).
+[//]: # (#### Acknowledgements)
+
+[//]: # (>> The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union &#40;GA no.101078950&#41;.)

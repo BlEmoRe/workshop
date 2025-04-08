@@ -9,7 +9,7 @@ menu:
 ---
 
 ## PC members:
-- Prof. Elisabeth Andr\'e (Augsburg University, Germany)
+- Prof. Elisabeth André (Augsburg University, Germany)
 - Dr. Michal Balazia (INRIA Sophia Antipolis, France)
 - Dr. Patrick Gebhard (German Research Center for Artificial Intelligence, Germany)
 - Prof. Magnus Boman (Karolinska Institutet, Sweden)

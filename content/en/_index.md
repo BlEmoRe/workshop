@@ -22,12 +22,15 @@ To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de
 Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
 
 
-## Training dataset released
+## Training dataset released (2025-03-27)
 The training dataset for the BLEMORE challenge is now available on [zenodo](https://zenodo.org/records/15096942). 
 Please feel free to contact us in case of any question concerning the dataset: petri.laukka@psyk.uu.se
 
-#### Acknowledgements
-The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union (GA no.101078950).
+[//]: # (#### Acknowledgements)
 
-[![Alt text](https://i.postimg.cc/TP4PPzcN/EU-flag-Horizon-Europe-2.jpg)](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)
-[![Alt text](https://i.postimg.cc/J0V8SM1J/gain-logo-4.png)](https://micm.edu.ge/en/)
+[//]: # (The EmoRec EEG workshop is organized by the Horizon Europe  project GAIN funded by the European Union &#40;GA no.101078950&#41;.)
+
+[//]: # ()
+[//]: # ([![Alt text]&#40;https://i.postimg.cc/TP4PPzcN/EU-flag-Horizon-Europe-2.jpg&#41;]&#40;https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en&#41;)
+
+[//]: # ([![Alt text]&#40;https://i.postimg.cc/J0V8SM1J/gain-logo-4.png&#41;]&#40;https://micm.edu.ge/en/&#41;)
