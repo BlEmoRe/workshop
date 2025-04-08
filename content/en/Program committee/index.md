@@ -13,3 +13,4 @@ menu:
 - Dr. Michal Balazia (INRIA Sophia Antipolis, France)
 - Dr. Patrick Gebhard (German Research Center for Artificial Intelligence, Germany)
 - Prof. Magnus Boman (Karolinska Institutet, Sweden)
+- Prof Jianhua Tao (Tsinghua University, China)
