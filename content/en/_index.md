@@ -30,7 +30,7 @@ Readme is being updated, but the code is already available.
 The call for papers for the BLEMORE workshop and competition is now available: [Call for Papers](https://blemore.github.io/workshop/call-for-papers/)
 
 ## Training dataset released (2025-03-27)
-The training dataset for the BLEMORE  workshop and competition is now available on [zenodo](https://zenodo.org/records/15096942). 
+The training dataset for the BLEMORE  workshop and competition is now available on [Zenodo](https://zenodo.org/records/15096942). 
 Please feel free to contact us in case of any question concerning the dataset: petri.laukka@psyk.uu.se
 
 
