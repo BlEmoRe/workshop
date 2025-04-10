@@ -19,7 +19,7 @@ Participants will be able to submit their predictions for the test set, and the 
 The training partition of the BLEMORE dataset includes 2,456 multimodal portrayals of both basic and blended emotions, 
 recorded under controlled studio conditions with synchronized audio and video.
 
-A total of 47 actors and actresses participated in the recordings. Each was instructed to express:
+A total of 47 actors and actresses participated in the recordings, each was instructed to express:
 
 ### Basic Emotions
 
@@ -60,3 +60,8 @@ our dataset — emotion salience in different blend conditions.
 
 We encourage submissions to provide information about how various blended emotions are expressed, 
 e.g. by providing lists of predictor importance, to increase the explainability of their systems.
+
+## Baselines 
+
+Baselines, accuracy metrics, and other supplementary code is provided on [GitHub](https://github.com/BlEmoRe/blemore-common/tree/main) 
+
