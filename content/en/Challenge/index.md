@@ -14,7 +14,10 @@ menu: main
 The training partition of the dataset is available on [Zenodo](https://zenodo.org/records/15096942)
 
 The test partition, without labels, will be made available at least 2 weeks before the challenge deadline (June 30, 2025).
-Participants will be able to submit their predictions for the test set, and the results will be evaluated on out server. 
+Participants will be able to submit their predictions for the test set, and the results will be evaluated on our server. 
+The exact details of how to submit will be detailed closed to the deadline, for now please refer to the 
+supplementary code on how to evaluate your predictions on [GitHub](https://github.com/BlEmoRe/blemore-common/tree/main).
+
 
 The training partition of the BLEMORE dataset includes 2,456 multimodal portrayals of both basic and blended emotions, 
 recorded under controlled studio conditions with synchronized audio and video.
