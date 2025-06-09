@@ -21,6 +21,21 @@ The workshop will take place on the 11th of October 2025.
 To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de/mailman/cgi-bin/listinfo/blemore-workshop.\
 Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
 
+## New Baselines Released (2025-06-09)
+
+New baselines for the BLEMORE Challenge are now available.
+
+The baselines include models using features extracted from pre-trained video and image encoders:
+- **CLIP**
+- **ImageBind**
+- **VideoMAEv2**
+- **Video Swin Transformer**
+
+Features are either aggregated into video-level representations or subsampled from short clips. Lightweight feedforward models (Linear, MLP) are trained to predict emotion presence and salience following the challenge evaluation protocol.
+
+Code and instructions are available in the updated [GitHub repository](https://github.com/BlEmoRe/blemore-common).
+
+
 ## Paper Submission (2025-06-09)
 Submissions to the BLEMORE Workshop are now open!  
 Please use the following link to submit your paper:
