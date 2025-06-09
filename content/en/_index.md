@@ -21,6 +21,17 @@ The workshop will take place on the 11th of October 2025.
 To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de/mailman/cgi-bin/listinfo/blemore-workshop.\
 Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
 
+## Paper Submission (2025-06-09)
+Submissions to the BLEMORE Workshop are now open!  
+Please use the following link to submit your paper:
+
+[Submit via EasyChair](https://easychair.org/conferences?conf=blemoreworkshopacii2)
+
+**1. General Track:** We invite submissions concerned with the general problem of blended emotion recognition.
+**2. Challenge Track:** In this track, we invite submissions which utilize the challenge dataset and pre-defined evaluation metrics. 
+
+See the [Call for Papers](https://blemore.github.io/workshop/call-for-papers/) for more details.
+
 ## Basic Code for Baselines released (2025-04-08)
 Available on [GitHub](https://github.com/BlEmoRe/blemore-common).
 
