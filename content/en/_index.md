@@ -28,6 +28,7 @@ Please use the following link to submit your paper:
 [Submit via EasyChair](https://easychair.org/conferences?conf=blemoreworkshopacii2)
 
 **1. General Track:** We invite submissions concerned with the general problem of blended emotion recognition.
+
 **2. Challenge Track:** In this track, we invite submissions which utilize the challenge dataset and pre-defined evaluation metrics. 
 
 See the [Call for Papers](https://blemore.github.io/workshop/call-for-papers/) for more details.
