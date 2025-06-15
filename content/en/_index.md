@@ -21,6 +21,17 @@ The workshop will take place on the 11th of October 2025.
 To stay up-to-date, please sign up to our mailing list here: https://www.dfki.de/mailman/cgi-bin/listinfo/blemore-workshop.\
 Please be aware that you need to confirm your list membership via email. We will distribute any news and future developments regarding the workshop (e.g., clarification of the challenge rules if there are any uncertainties) via the mailing list.
 
+# News
+
+## Test Dataset Released (2025-06-15)
+
+We’ve now published the test partition of the BlEmoRe dataset on [Zenodo](https://zenodo.org/records/15668840).
+The test set includes a set of videos and a [submission_template.json](../../static/files/submission_template.json) file.
+
+Participants are invited to submit their predictions in the provided format to: Petri Laukka: petri.laukka@psyk.uu.se
+
+We will evaluate them on our server. The evaluation will be based on the two metrics defined in the challenge: `ACC_presence` and `ACC_salience`.
+
 ## New Baselines Released (2025-06-09)
 
 New baselines for the BLEMORE Challenge are now available.
