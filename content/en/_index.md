@@ -26,7 +26,7 @@ Please be aware that you need to confirm your list membership via email. We will
 ## Test Dataset Released (2025-06-15)
 
 We’ve now published the test partition of the BlEmoRe dataset on [Zenodo](https://zenodo.org/records/15668840).
-The new Zenodo version includes a set of test videos and a submission template. 
+The new Zenodo version includes a set of test videos and a [submission template](https://github.com/BlEmoRe/blemore-common/blob/main/data/submission_template.json). 
 
 Participants are invited to submit their predictions in the template format to: Petri Laukka: petri.laukka@psyk.uu.se
 
