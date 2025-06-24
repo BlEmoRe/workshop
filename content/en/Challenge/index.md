@@ -13,6 +13,7 @@ menu: main
 
 The test partition, without labels, is available on [Zenodo](https://zenodo.org/records/15668840)
 Participants are invited to submit their predictions for the test set by emailing them to Petri Laukka at: petri.laukka@psyk.uu.se
+in the provided [submission template](https://github.com/BlEmoRe/blemore-common/blob/main/data/submission_template.json)
 The deadline for submission is **June 30, 2025**.
 Please refer to the supplementary code on how to evaluate your predictions on [GitHub](https://github.com/BlEmoRe/blemore-common/)
 
@@ -67,5 +68,5 @@ e.g. by providing lists of predictor importance, to increase the explainability 
 
 ## Baselines 
 
-Baselines, accuracy metrics, and other supplementary code is provided on [GitHub](https://github.com/BlEmoRe/blemore-common/tree/main) 
+Baselines, accuracy metrics, and other supplementary code is provided on [GitHub](https://github.com/BlEmoRe/blemore-common/).
 
