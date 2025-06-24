@@ -44,3 +44,5 @@ Further details on the challenge can be found [here](https://blemore.github.io/w
 ### Submission
 
 Submissions in both tracks should follow the general ACII guidelines (max. 7 pages main text + 1 page optional ethics statement + unlimited references).
+
+Submissions should be made via EasyChair: [Submit via EasyChair](https://easychair.org/conferences?conf=blemoreworkshopacii2)

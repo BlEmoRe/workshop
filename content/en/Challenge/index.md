@@ -11,14 +11,14 @@ menu: main
 
 ## Submissions
 
-The test partition, without labels, will be made available at least 2 weeks before the challenge deadline (June 30, 2025).
-Participants will be able to submit their predictions for the test set, and the results will be evaluated on our server. 
-The exact details of how to submit will be provided closed to the deadline, for now please refer to the 
-supplementary code on how to evaluate your predictions on [GitHub](https://github.com/BlEmoRe/blemore-common/tree/main)
+The test partition, without labels, is available on [Zenodo](https://zenodo.org/records/15668840)
+Participants are invited to submit their predictions for the test set by emailing them to Petri Laukka at: petri.laukka@psyk.uu.se
+The deadline for submission is **June 30, 2025**.
+Please refer to the supplementary code on how to evaluate your predictions on [GitHub](https://github.com/BlEmoRe/blemore-common/)
 
 ## Dataset 
 
-The training partition of the dataset is available on [Zenodo](https://zenodo.org/records/15096942)
+The training partition of the dataset is available on [Zenodo](https://zenodo.org/records/15668840)
 
 The training partition of the BLEMORE dataset includes 2,456 multimodal portrayals of both basic and blended emotions, 
 recorded under controlled studio conditions with synchronized audio and video.
