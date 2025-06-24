@@ -23,6 +23,14 @@ Please be aware that you need to confirm your list membership via email. We will
 
 # News
 
+## Citable draft paper released (2025-06-24) along with audio and multimodal baselines
+
+We have released a draft version of our paper, which provides an overview of the BLEMORE workshop and competition, 
+including the dataset, evaluation metrics and baselines for visual, audio, and multimodal emotion recognition. 
+The paper is available as a technical report on [GitHub](https://github.com/BlEmoRe/blemore-common/blob/main/paper.pdf).
+
+To cite the paper, follow the instructions on [GitHub](https://github.com/BlEmoRe/blemore-common/)
+
 ## Test Dataset Released (2025-06-15)
 
 We’ve now published the test partition of the BlEmoRe dataset on [Zenodo](https://zenodo.org/records/15668840).
